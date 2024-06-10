@@ -1,0 +1,473 @@
+# Copyright (C) 2019 kallyas-addon-side-header
+# This file is distributed under the same license as the kallyas-addon-side-header package.
+msgid ""
+msgstr ""
+"Project-Id-Version: kallyas-addon-side-header\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: HogashStudio\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/markup.php:75
+msgid "Go back"
+msgstr ""
+
+#: includes/markup.php:102
+msgid "<p>Please access the <a href=\"%s\" target=\"_blank\"><u>Header SideBar options</u></a> and choose a menu.</p><p>If you accidentally enabled <strong>Kallyas Addon - Side Header</strong>, you can disable it in <a href=\"%s\" target=\"_blank\"><u>Plugins page</u></a>.</p>"
+msgstr ""
+
+#: includes/options.php:8
+msgid "This plugin cannot work with <strong>Kallyas Addon - Overlay Plugin</strong>. To solve this issue please access <a href=\"%s\">Plugins page</a> and disable Kallyas Addon - Overlay Plugin."
+msgstr ""
+
+#: includes/options.php:14
+msgid "<strong style=\"font-size:120%\">Warning!</strong>"
+msgstr ""
+
+#: includes/options.php:26
+msgid "SIDE HEADER"
+msgstr ""
+
+#: includes/options.php:28
+msgid "These options will customize the Side header panel.<br><br><span class=\"dashicons dashicons-editor-help\"></span> If you want to enable different types of headers, you will need to disable <strong>Kallyas Addon - Side Header</strong> from <a href=\"%s\">Plugins Page</a>"
+msgstr ""
+
+#: includes/options.php:57
+msgid "DISPLAY OPTIONS"
+msgstr ""
+
+#: includes/options.php:58
+msgid "These options are dedicated dedicated to customize the looks of the side header."
+msgstr ""
+
+#: includes/options.php:67
+msgid "Panel Width"
+msgstr ""
+
+#: includes/options.php:68
+msgid "Select the panel's width."
+msgstr ""
+
+#: includes/options.php:82
+msgid "Panel Display Breakpoint"
+msgstr ""
+
+#: includes/options.php:83
+msgid "You can customize at which screen breakpoint (in px) to hide the side header by default. Keep in mind that this value will be SUMMED up with the panel width."
+msgstr ""
+
+#: includes/options.php:97
+msgid "Panel Color"
+msgstr ""
+
+#: includes/options.php:98
+msgid "Select the panel's background color."
+msgstr ""
+
+#: includes/options.php:108
+msgid "Panel Content Theme"
+msgstr ""
+
+#: includes/options.php:109
+msgid "Select the panel's contents theme color."
+msgstr ""
+
+#: includes/options.php:114
+msgid "Dark (for lighter background)"
+msgstr ""
+
+#: includes/options.php:115
+msgid "Light (for darker backgrounds)"
+msgstr ""
+
+#: includes/options.php:122
+msgid "Panel Screen-Edge Alignment"
+msgstr ""
+
+#: includes/options.php:123
+msgid "Select the panel alignment in the page."
+msgstr ""
+
+#: includes/options.php:128
+msgid "Left Screen-Edge"
+msgstr ""
+
+#: includes/options.php:129
+msgid "Right Screen-Edge"
+msgstr ""
+
+#: includes/options.php:136
+msgid "Panel Content Alignment"
+msgstr ""
+
+#: includes/options.php:137
+msgid "Select the panel's content alignment."
+msgstr ""
+
+#: includes/options.php:142, includes/options.php:221
+msgid "Left"
+msgstr ""
+
+#: includes/options.php:143, includes/options.php:222
+msgid "Center"
+msgstr ""
+
+#: includes/options.php:144, includes/options.php:223
+msgid "Right"
+msgstr ""
+
+#: includes/options.php:156
+msgid "Logo Option"
+msgstr ""
+
+#: includes/options.php:165
+msgid "Logo Type"
+msgstr ""
+
+#: includes/options.php:166
+msgid "Select the type of logo."
+msgstr ""
+
+#: includes/options.php:171
+msgid "No Logo"
+msgstr ""
+
+#: includes/options.php:172
+msgid "Image Logo"
+msgstr ""
+
+#: includes/options.php:173
+msgid "Text Logo"
+msgstr ""
+
+#: includes/options.php:180
+msgid "Custom Logo Image"
+msgstr ""
+
+#: includes/options.php:181
+msgid "Add a custom logo image."
+msgstr ""
+
+#: includes/options.php:191
+msgid "Logo TEXT"
+msgstr ""
+
+#: includes/options.php:192
+msgid "Add a custom logo text. If empty, the SITE NAME will be used."
+msgstr ""
+
+#: includes/options.php:202
+msgid "Logo TEXT Typography pptions"
+msgstr ""
+
+#: includes/options.php:203
+msgid "Specify the logo typography properties. Will only work if you don't upload a logo image."
+msgstr ""
+
+#: includes/options.php:214
+msgid "Logo alignment"
+msgstr ""
+
+#: includes/options.php:215
+msgid "Select the logo alignment."
+msgstr ""
+
+#: includes/options.php:220
+msgid "Inherit"
+msgstr ""
+
+#: includes/options.php:236
+msgid "Menu Options"
+msgstr ""
+
+#: includes/options.php:253
+msgid "Please create Menus!"
+msgstr ""
+
+#: includes/options.php:254
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: includes/options.php:264
+msgid "Choose a menu"
+msgstr ""
+
+#: includes/options.php:265
+msgid "Choose a menu to display."
+msgstr ""
+
+#: includes/options.php:276
+msgid "Menu Depth"
+msgstr ""
+
+#: includes/options.php:277
+msgid "Choose the maximum depth of the menu."
+msgstr ""
+
+#: includes/options.php:292
+msgid "Menu Typography"
+msgstr ""
+
+#: includes/options.php:293
+msgid "Specify the typography properties for the menu."
+msgstr ""
+
+#: includes/options.php:303
+msgid "Menu Links HOVER Color"
+msgstr ""
+
+#: includes/options.php:304
+msgid "Select a hover text color for the menu items."
+msgstr ""
+
+#: includes/options.php:315
+msgid "Menu Links ACTIVE Color"
+msgstr ""
+
+#: includes/options.php:316
+msgid "Select a text color for the menu items that will be applied on active menu items."
+msgstr ""
+
+#: includes/options.php:326
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: includes/options.php:327
+msgid "Enable the breadcrumb above the menu?."
+msgstr ""
+
+#: includes/options.php:332
+msgid "Yes"
+msgstr ""
+
+#: includes/options.php:333
+msgid "No"
+msgstr ""
+
+#: includes/options.php:341
+msgid "Breadcrumb Initial Text"
+msgstr ""
+
+#: includes/options.php:342
+msgid "Change the initial breadcrumb text."
+msgstr ""
+
+#: includes/options.php:351
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: includes/options.php:352
+msgid "Select a text color for the breadcrumb items."
+msgstr ""
+
+#: includes/options.php:363
+msgid "Vertical Align"
+msgstr ""
+
+#: includes/options.php:364
+msgid "Select the vertical alignment."
+msgstr ""
+
+#: includes/options.php:369
+msgid "Top"
+msgstr ""
+
+#: includes/options.php:370
+msgid "Middle"
+msgstr ""
+
+#: includes/options.php:371
+msgid "Bottom"
+msgstr ""
+
+#: includes/options.php:378
+msgid "Menu Top Margin"
+msgstr ""
+
+#: includes/options.php:379
+msgid "Select the top margin for the menu."
+msgstr ""
+
+#: includes/options.php:400
+msgid "Social Icons Options"
+msgstr ""
+
+#: includes/options.php:409
+msgid "Icons Layout"
+msgstr ""
+
+#: includes/options.php:410
+msgid "Select the layout of the icons."
+msgstr ""
+
+#: includes/options.php:414
+msgid "Default"
+msgstr ""
+
+#: includes/options.php:415
+msgid "Special (Needs Background Color)"
+msgstr ""
+
+#: includes/options.php:423
+msgid "Social icons Size"
+msgstr ""
+
+#: includes/options.php:424
+msgid "Select the size (font-size) of the social icons."
+msgstr ""
+
+#: includes/options.php:440
+msgid "Padding Inside"
+msgstr ""
+
+#: includes/options.php:441
+msgid "Select the size of the social icons."
+msgstr ""
+
+#: includes/options.php:456
+msgid "Corner Radius"
+msgstr ""
+
+#: includes/options.php:457
+msgid "Adjust the corners radius of the icons."
+msgstr ""
+
+#: includes/options.php:472
+msgid "Icons Distance"
+msgstr ""
+
+#: includes/options.php:473
+msgid "Select the distance between the social icons."
+msgstr ""
+
+#: includes/options.php:489
+msgid "Social Icons"
+msgstr ""
+
+#: includes/options.php:490
+msgid "Add Social Icons."
+msgstr ""
+
+#: includes/options.php:494, includes/options.php:495
+msgid "Social Icon"
+msgstr ""
+
+#: includes/options.php:500
+msgid "Icon title"
+msgstr ""
+
+#: includes/options.php:501
+msgid "Here you can enter a title for this social icon."
+msgstr ""
+
+#: includes/options.php:507
+msgid "Social icon link"
+msgstr ""
+
+#: includes/options.php:508
+msgid ""
+"Please enter your desired link for the social icon. If this field is left\n"
+"				blank, the icon will not be linked."
+msgstr ""
+
+#: includes/options.php:516
+msgid "Social icon"
+msgstr ""
+
+#: includes/options.php:517
+msgid "Select your desired social icon."
+msgstr ""
+
+#: includes/options.php:526
+msgid "Colors options"
+msgstr ""
+
+#: includes/options.php:533
+msgid "Icon Background color"
+msgstr ""
+
+#: includes/options.php:534
+msgid "Select a background color for the icon."
+msgstr ""
+
+#: includes/options.php:541
+msgid "Icon color"
+msgstr ""
+
+#: includes/options.php:542, includes/options.php:558
+msgid "Select a color for the icon."
+msgstr ""
+
+#: includes/options.php:549
+msgid "Icon Background color on Hover"
+msgstr ""
+
+#: includes/options.php:550
+msgid "Select a background color for the icon when hovering over it."
+msgstr ""
+
+#: includes/options.php:557
+msgid "Icon color on Hover"
+msgstr ""
+
+#: includes/options.php:575
+msgid "Custom Text Options"
+msgstr ""
+
+#: includes/options.php:584
+msgid "Custom Text"
+msgstr ""
+
+#: includes/options.php:585
+msgid "Add some custom text. Supports HTML or Shortcodes. Leave blank to hide it."
+msgstr ""
+
+#: includes/options.php:594
+msgid "Custom Text Typography"
+msgstr ""
+
+#: includes/options.php:595
+msgid "Specify the typography properties for the custom text."
+msgstr ""
+
+#: includes/options.php:611
+msgid "Navigation \"Burger-icon\" Options"
+msgstr ""
+
+#: includes/options.php:620
+msgid "Hamburger-Icon - Custom Color"
+msgstr ""
+
+#: includes/options.php:621
+msgid "Select a color."
+msgstr ""
+
+#: includes/options.php:631
+msgid "Hamburger-Icon - Custom Color for Mobiles (under 767px)"
+msgstr ""
+
+#: includes/options.php:632
+msgid "Force a custom color for the hamburger icon, when on mobiles."
+msgstr ""
+
+#: kallyas-addon-side-header.php:136
+msgid "Settings"
+msgstr ""
+
+#: kallyas-addon-side-header.php:147
+msgid "Get Kallyas Theme!"
+msgstr ""
+
+#: kallyas-addon-side-header.php:148
+msgid "Kallyas theme is not installed! Side Header Plugin only works with Kallyas theme."
+msgstr ""
+
+#: kallyas-addon-side-header.php:154
+msgid "<strong>Side Header Plugin</strong> cannot work with <strong>Kallyas Addon - Overlay Plugin</strong>. To solve this issue please disable Kallyas Addon - Overlay Plugin."
+msgstr ""

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Graphic Design &#8211; Kosarkaski Klub Denver Nuggets</title>
+	<atom:link href="/category/graphic-design/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Denver Nuggets</description>
+	<lastBuildDate>Tue, 21 Feb 2017 10:40:41 +0000</lastBuildDate>
+	<language>sr-RS</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>A Branding Tool for Everything and Everyone.</title>
+		<link>/2017/02/21/a-branding-tool-for-everything-and-everyone/</link>
+					<comments>/2017/02/21/a-branding-tool-for-everything-and-everyone/#respond</comments>
+		
+		<dc:creator><![CDATA[Filip]]></dc:creator>
+		<pubDate>Tue, 21 Feb 2017 10:40:41 +0000</pubDate>
+				<category><![CDATA[Graphic Design]]></category>
+		<guid isPermaLink="false">/2017/02/21/a-branding-tool-for-everything-and-everyone/</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lacinia augue sit amet iaculis varius. Quisque nibh dui, faucibus a convallis a, semper vitae urna. Nam finibus metus a diam tincidunt finibus]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lacinia augue sit amet iaculis varius. Quisque nibh dui, faucibus a convallis a, semper vitae urna. Nam finibus metus a diam tincidunt finibus. Sed non eros eget urna mattis finibus at a massa. Vestibulum eleifend elementum orci, nec ultrices lectus imperdiet eget. Etiam non turpis at ante dignissim mollis. Quisque in magna est. Vivamus ullamcorper a est a blandit. Nulla arcu erat, sodales sit amet diam vitae, vestibulum porttitor risus. Proin odio nunc, vulputate et felis ut, aliquet pretium neque. Nullam vel sem ut nunc cursus aliquet. Donec vulputate lectus nisi, vel vulputate nisi pellentesque nec. Pellentesque vestibulum condimentum nibh, efficitur bibendum turpis. Pellentesque luctus urna eu purus mattis dapibus. Mauris urna lorem, gravida id luctus fringilla, iaculis eget elit.</p>
+<p>Etiam nec euismod ante. Duis dignissim orci tellus, a hendrerit diam maximus ut. Maecenas sit amet diam eu orci tempor lobortis in eu nulla. Nam eget urna vitae purus porta porta. Donec non mauris sed sapien sollicitudin dapibus. Fusce sed erat consectetur, accumsan arcu vitae, eleifend augue. Sed feugiat orci lectus, id aliquam lacus tincidunt nec. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/02/21/a-branding-tool-for-everything-and-everyone/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
